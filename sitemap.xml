@@ -2,10 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://romanfedoruk.com/posts/newpost/</loc>
+    <lastmod>2021-11-01T15:30:50-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://romanfedoruk.com/posts/</loc>
+    <lastmod>2021-11-01T15:30:50-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://romanfedoruk.com/</loc>
+    <lastmod>2021-10-20T19:06:42-04:00</lastmod>
+  </url><url>
+    <loc>https://romanfedoruk.com/categories/</loc>
+  </url><url>
+    <loc>https://romanfedoruk.com/posts/hiragana/</loc>
+  </url><url>
+    <loc>https://romanfedoruk.com/posts/js-calc/</loc>
+  </url><url>
+    <loc>https://romanfedoruk.com/posts/chromeextension/</loc>
+  </url><url>
+    <loc>https://romanfedoruk.com/tags/projects/</loc>
+  </url><url>
+    <loc>https://romanfedoruk.com/categories/projects/</loc>
+  </url><url>
+    <loc>https://romanfedoruk.com/tags/</loc>
+  </url><url>
+    <loc>https://romanfedoruk.com/posts/tictac/</loc>
+  </url><url>
+    <loc>https://romanfedoruk.com/posts/wikiview/</loc>
   </url>
 </urlset>

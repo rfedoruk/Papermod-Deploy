@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Roman Fedoruk Portfolio</title>
+    <link>https://romanfedoruk.com/posts/</link>
+    <description>Recent content in Posts on Roman Fedoruk Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Nov 2021 15:30:50 -0400</lastBuildDate><atom:link href="https://romanfedoruk.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newpost</title>
+      <link>https://romanfedoruk.com/posts/newpost/</link>
+      <pubDate>Mon, 01 Nov 2021 15:30:50 -0400</pubDate>
+      
+      <guid>https://romanfedoruk.com/posts/newpost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiragana</title>
+      <link>https://romanfedoruk.com/posts/hiragana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanfedoruk.com/posts/hiragana/</guid>
+      <description>This is a tool I built to help me learn one of the Japanese alphabets - Hiragana. It simply allows the user to pick the number of random characters to display with their english equivalent, and then the user can attempt to write them in Japanese, and check their work with the &amp;ldquo;show japanese&amp;rdquo; button.
+See the Pen Hiragana writing help by Roman Fedoruk (@roman_fedoruk) on CodePen.  </description>
+    </item>
+    
+    <item>
+      <title>Javascript Calculator</title>
+      <link>https://romanfedoruk.com/posts/js-calc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanfedoruk.com/posts/js-calc/</guid>
+      <description>This is just a plain Javascript calculator, built using Javascript, Jquery, and Shortcut.js to allow for keyboard input! See the Pen JS Calculator by Roman Fedoruk (@roman_fedoruk)on CodePen.</description>
+    </item>
+    
+    <item>
+      <title>KSU Schedule Builder Chrome Extension</title>
+      <link>https://romanfedoruk.com/posts/chromeextension/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanfedoruk.com/posts/chromeextension/</guid>
+      <description>A time saver Every semester students have to apply for their next semester courses. Most students like to look up their professors on Ratemyprofessor.com to read the reviews of previous students. This involves copying the professors name and pasting it into the rate my professor website. I decided to build a chrome extension that automatically displays the rate my professor score next each professor&amp;rsquo;s name. The score is also a clickable link that takes the user to that professor&amp;rsquo;s rate my professor page.</description>
+    </item>
+    
+    <item>
+      <title>TicTac</title>
+      <link>https://romanfedoruk.com/posts/tictac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanfedoruk.com/posts/tictac/</guid>
+      <description>A Javascript Tic Tac Toe game, the user plays against the computer. Built with Javascript and jQuery See the Pen Tic Tac Toe by Roman Fedoruk (@roman_fedoruk) on CodePen.  </description>
+    </item>
+    
+    <item>
+      <title>WikiView</title>
+      <link>https://romanfedoruk.com/posts/wikiview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanfedoruk.com/posts/wikiview/</guid>
+      <description>A search engine for Wikipedia, built using the Wikipedia API See the Pen Wikipedia Viewer by Roman Fedoruk (@roman_fedoruk) on CodePen.  </description>
+    </item>
+    
+  </channel>
+</rss>

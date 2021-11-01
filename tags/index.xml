@@ -2,9 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Roman Fedoruk Portfolio</title>
-    <link>http://example.org/tags/</link>
+    <link>https://romanfedoruk.com/tags/</link>
     <description>Recent content in Tags on Roman Fedoruk Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://romanfedoruk.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://romanfedoruk.com/tags/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanfedoruk.com/tags/projects/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
